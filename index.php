@@ -3,18 +3,19 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Allan Samayoa</title>
+	<link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 	<header>
-		<h3>Bienvenido a:</h3>
-		<h1>AllanSamayoa.com</h1>
-		<h2>El sitio oficial de Allan Samayoa</h2>
+		<h3 id="PreTitulo">Bienvenido a:</h3>
+		<h1 id="Titulo">AllanSamayoa.com</h1>
+		<h2 id="Tagline">El sitio oficial de Allan Samayoa</h2>
 		<nav>
 			<ul>
-				<li>Inicio</li>
-				<li>Sobre mí</li>
-				<li>Habilidades</li>
-				<li>Contacto</li>
+				<a href="#"><li>Inicio</li></a>
+				<a href="#"><li>Sobre mí</li></a>
+				<a href="#"><li>Habilidades</li></a>
+				<a href="#"><li>Contacto</li></a>
 			</ul>
 		</nav>
 	</header>

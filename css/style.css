@@ -1,0 +1,37 @@
+*{
+	
+}
+
+header {
+	background: gray;
+	border-style: solid;
+	padding top: 15px;
+	padding-bottom: 15px;
+	padding-right: 50px;
+	padding-left: 50px;
+}
+
+#Titulo, #Tagline, #PreTitulo {
+	color: #ccc;
+	margin: 0px;
+}
+
+#PreTitulo {
+	padding-top: 25px;
+}
+
+
+
+nav {
+	background: white;
+}
+
+
+nav ul li {
+	margin: 10px;
+	display: inline-block;
+}
+
+section {
+	padding: 50px;
+}
